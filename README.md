@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [creating an Astro blog](github.com/CarlosCastanedaDev/dpi-blog-2023)
 
-- 🌱 I’m currently learning **Astro and Tailwind**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [github.com/CarlosCastanedaDev](github.com/CarlosCastanedaDev)
 
