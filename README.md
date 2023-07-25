@@ -5,12 +5,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/nemindev" target="blank"><img src="https://img.shields.io/twitter/follow/nemindev?logo=twitter&style=for-the-badge" alt="nemindev" /></a> </p>
-https://github.com/CarlosCastanedaDev/CarlosCastanedaDev/blob/main/README.md
-- 🔭 I’m currently working on [creating an Astro blog](github.com/CarlosCastanedaDev/dpi-blog-2023)
+- 🔭 I’m currently working on [creating an Astro blog](https://github.com/CarlosCastanedaDev/dpi-blog-2023)
 
 - 🌱 I’m currently learning **Ruby**
 
-- 👨‍💻 All of my projects are available at [github.com/CarlosCastanedaDev](github.com/CarlosCastanedaDev)
+- 👨‍💻 All of my projects are available at [github.com/CarlosCastanedaDev](https://github.com/CarlosCastanedaDev)
 
 - ⚡ Fun fact **I ran and finished the 2016 NYC Marathon!**
 
