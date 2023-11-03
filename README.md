@@ -5,9 +5,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/nemindev" target="blank"><img src="https://img.shields.io/twitter/follow/nemindev?logo=twitter&style=for-the-badge" alt="nemindev" /></a> </p>
-- 🔭 I’m currently working on [creating an Astro blog](https://github.com/CarlosCastanedaDev/dpi-blog-2023)
+- 🔭 I’m currently working on [Family Tree Rails Project](https://github.com/CarlosCastanedaDev/family-tree)
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby** and **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [github.com/CarlosCastanedaDev](https://github.com/CarlosCastanedaDev)
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nemindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nemindev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carloscastawork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloscastawork" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carloscastanedadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloscastawork" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
